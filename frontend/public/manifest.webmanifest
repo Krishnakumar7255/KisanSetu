@@ -1,0 +1,13 @@
+{
+  "name": "KisanSetu — Smart Mandi Services",
+  "short_name": "KisanSetu",
+  "description": "Smart mandi slot booking, live queue and procurement tracking.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7faf8",
+  "theme_color": "#166534",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/pwa-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
